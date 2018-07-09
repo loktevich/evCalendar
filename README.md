@@ -10,7 +10,8 @@ evCalendar is a console application that allow you to organize your events and a
 There are next options:  
 + [E] - show events for today. Then you can add, update and delete today events or return to main menu.
 + [V] - show all events in the calendar. Then you can add, update and delete events or find event by date.
-+ [A] - add event to the calendar. Prompt user for correct date (DD.MM.YYYY or D.M.YYYY) and event description. For example:
++ [A] - add event to the calendar. Prompt user for correct date (DD.MM.YYYY or D.M.YYYY) and event description.  
+For example:
 
     Date:  31.12.2018 (or 1.1.2019)  
     Event: Happy New Year!  
