@@ -23,4 +23,4 @@ For example:
 - [ X ] - exit the program.  
 
 ## Important information
-Do not modified file data.pkl. It contains all data about your events. All changes will crash the app!
+Do not modify file data.pkl. It contains all data about your events. All changes will crash the app!
