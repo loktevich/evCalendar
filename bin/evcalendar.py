@@ -15,5 +15,5 @@ except pickle.UnpicklingError:
     print("Sorry =(\n\
 You data file was modified or deleted.\n\
 \n\
-Please run data\save.py script")
+Please run data\repair.py script")
     

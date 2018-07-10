@@ -141,5 +141,5 @@ def start():
             continue      
     else:
         save_calendar(calendar)
-        print("Program is exit.")    
+        print("Program is exit. Goodbye.")    
             
