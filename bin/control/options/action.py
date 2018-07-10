@@ -4,9 +4,9 @@ This module define main actions depending on scenarios.
 @author: Dmitry Loktevich
 '''
 
-from bin.control.options.add import add_event
-from bin.control.options.update import update_event
-from bin.control.options.delete import delete_event
+from control.options.add import add_event
+from control.options.update import update_event
+from control.options.delete import delete_event
 
 def choose_action(user_choice, calendar, date):
     

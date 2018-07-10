@@ -4,9 +4,9 @@ This module updates existing events in the calendar.
 @author: Dmitry Loktevich
 '''
 
-from bin.control.options.show import show_events
-from bin.control.validator import validate_date, validate_ind, validate_key
-from bin.data.save import save_calendar
+from control.options.show import show_events
+from control.validator import validate_date, validate_ind, validate_key
+from data.save import save_calendar
 
 def update_event(calendar, date):
     print("Updating the existing event:")

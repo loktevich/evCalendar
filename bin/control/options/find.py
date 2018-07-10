@@ -4,8 +4,8 @@ This module searches for events on entered date.
 @author: Dmitry Loktevich
 '''
 
-from bin.control.options.show import show_events
-from bin.control.validator import validate_date
+from control.options.show import show_events
+from control.validator import validate_date
 
 def find_event(calendar):
     print("Finding the events:")

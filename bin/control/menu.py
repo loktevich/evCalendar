@@ -5,7 +5,7 @@ This module generates main menu options and messages.
 '''
 
 import datetime
-from bin.view.menu import create_menu
+from view.menu import create_menu
 
 def main_menu(calendar):
     today_str = datetime.datetime.today().strftime("%d.%m.%Y")

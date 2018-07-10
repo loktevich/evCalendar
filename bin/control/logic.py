@@ -4,13 +4,13 @@ This module contains the main logic and all of scenarios of the program.
 @author: Dmitry Loktevich
 '''
 
-from bin.control.menu import main_menu
-from bin.data.load import load_calendar
-from bin.control.options.show import show_events, show_calendar
-from bin.view.menu import create_menu
-from bin.control.options.find import find_event
-from bin.control.options.action import choose_action
-from bin.data.save import save_calendar
+from control.menu import main_menu
+from data.load import load_calendar
+from control.options.show import show_events, show_calendar
+from view.menu import create_menu
+from control.options.find import find_event
+from control.options.action import choose_action
+from data.save import save_calendar
 import datetime
 
 # this function starts the calendar

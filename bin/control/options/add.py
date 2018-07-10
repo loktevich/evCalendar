@@ -4,8 +4,8 @@ This module adds events to the calendar.
 @author: Dmitry Loktevich
 '''
 
-from bin.control.validator import validate_date
-from bin.data.save import save_calendar
+from control.validator import validate_date
+from data.save import save_calendar
 
 def add_event(calendar, date):
     print("Adding new event:")
