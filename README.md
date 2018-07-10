@@ -6,6 +6,10 @@ email: loktevich@gmail.com
 ## Description
 evCalendar is a console application that allow you to organize your events and aims. Now you can never missed some important dates or meetings - evCalendar notificate you with message on the console.
 
+## version 1.1
+Added ability to repair evCalendar if data.pkl file was modified or deleted or erase existing data if all is OK.  
+Simply run save.py file and follow instruction.
+
 ## version 1.0  
 There are next options:  
 + [ E ] - show events for today. Then you can add, update and delete today events or return to main menu.
@@ -23,4 +27,4 @@ For example:
 - [ X ] - exit the program.  
 
 ## Important information
-Do not modify file data.pkl. It contains all data about your events. All changes will crash the app!
+Do not modify file data.pkl. It contains all data about your events. All changes will crash the app and your data will be lost!
