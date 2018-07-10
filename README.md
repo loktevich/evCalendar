@@ -8,7 +8,7 @@ evCalendar is a console application that allow you to organize your events and a
 
 ## version 1.1
 Added ability to repair evCalendar if data.pkl file was modified or deleted or erase existing data if all is OK.  
-Simply run save.py file and follow instruction.
+Simply run data\save.py file and follow instruction.
 
 ## version 1.0  
 There are next options:  
